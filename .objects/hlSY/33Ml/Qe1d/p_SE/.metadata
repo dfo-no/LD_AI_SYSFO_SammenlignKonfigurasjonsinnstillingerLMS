@@ -1,0 +1,14 @@
+﻿{
+  "Name": "# Java class used to ge…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "p_SEa_EjREixBOkQEBa0Xg",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/p_SEa_EjREixBOkQEBa0Xg",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/Qe1d2xUSDkm43pxTTFmpow",
+  "Created": "2026-06-30T11:21:52.6497179Z",
+  "Updated": "2026-06-30T11:21:52.6497179Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

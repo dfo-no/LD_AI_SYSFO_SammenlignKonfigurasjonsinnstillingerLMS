@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Søkevelgere",
+  "Type": "Element",
+  "Id": "n73CJqjCck-A2WxExpQOcw",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/n73CJqjCck-A2WxExpQOcw",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/1tfI4sMcDU6L3D-RAv6zOg",
+  "Created": "2026-07-27T15:21:26.7791476Z",
+  "Updated": "2026-07-27T15:21:26.7791476Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

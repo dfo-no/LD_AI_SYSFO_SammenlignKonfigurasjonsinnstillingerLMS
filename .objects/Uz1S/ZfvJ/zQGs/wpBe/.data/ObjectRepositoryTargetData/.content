@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8pYsQBVIKE6CorDwiHnmUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="hcm-eu20-preview.hr.cloud.sap/sf/start" DesignTimeRectangle="44, 974, 360, 48" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;ctrl name='Home - SAP SuccessFactors' role='document' /&gt;&lt;ctrl name='Navigation menu' role='grouping' /&gt;&lt;ctrl name='Primary Navigation Menu' role='outline' /&gt;&lt;ctrl name='Learning Administration' role='outline item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Home - SAP SuccessFactors' role='document' /&gt;&lt;ctrl name='Navigation menu' role='grouping' /&gt;&lt;ctrl name='Primary Navigation Menu' role='outline' /&gt;&lt;ctrl name='Learning Administration' role='outline item' automationid='' check:text='Learning Administration' /&gt;" Guid="d55f7ca2-add6-4186-975a-7f5d99ce27aa" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Home*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="007db4e314511ba8816cb1e650d43401.png" xmlns="">0tsQoi9F9XEGOmrQMtTJtSw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

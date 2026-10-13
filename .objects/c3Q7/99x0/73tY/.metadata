@@ -1,0 +1,13 @@
+﻿{
+  "Name": "gå til konfigurasjon",
+  "Type": "Screen",
+  "Id": "73tYxzFjDk2N9O505FIjPA",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/73tYxzFjDk2N9O505FIjPA",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/99x0YKDCg0uC-WZirKcB1w",
+  "Created": "2026-08-24T18:46:19.2501474Z",
+  "Updated": "2026-08-24T18:46:19.2501474Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

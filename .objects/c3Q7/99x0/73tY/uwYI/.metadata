@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Bruk endringer",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "uwYIFv0bEkKv-2VvARTf6w",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/uwYIFv0bEkKv-2VvARTf6w",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/73tYxzFjDk2N9O505FIjPA",
+  "Created": "2026-08-25T13:13:22.7587367Z",
+  "Updated": "2026-08-25T13:13:22.7587367Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

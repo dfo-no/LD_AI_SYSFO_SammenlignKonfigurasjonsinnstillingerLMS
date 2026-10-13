@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Skriv inn passord",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "8lWRoOQsNU6wH5WWqv-NnQ",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/8lWRoOQsNU6wH5WWqv-NnQ",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/YRE7MRHtkUeAgf-zwM6G0A",
+  "Created": "2026-09-30T11:00:00.4465731Z",
+  "Updated": "2026-09-30T11:00:00.4465731Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

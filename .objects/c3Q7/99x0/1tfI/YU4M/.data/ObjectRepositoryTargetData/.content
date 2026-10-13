@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EvIpcNejFE-l2nUazRgHwA" Reference="vwYrCs3bhkG3AVITYF0heQ/YU4MNIB3vUWXf_sdjrL99A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="952, 845, 715, 71" DesignTimeScaleFactor="2.5" ElementType="Cell" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Søk*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  |    | &amp;gt; Systemkonfigurasjon ' role='cell' /&gt;&lt;ctrl idx='6' role='row' /&gt;&lt;ctrl idx='26' role='row' /&gt;&lt;ctrl name='MOBIL   ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='MOBIL ' role='cell' /&gt;" FuzzySelectorArgument="[string.Format(&quot;&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Søk*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  |    | &amp;gt; Systemkonfigurasjon ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='MOBIL   ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='MOBIL ' role='cell' automationid='' check:text='{0}' /&gt;&quot;, currentConfig)]" Guid="03cac203-47f9-4d67-a8e8-d46e5b4c8520" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 1 side til – [InPrivate] – Microsoft*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f5bca273ab6247e28db718fea3530d27.png" xmlns="">0eOhdludbBUKMifPTf4mO1w</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="Mobil" Name="currentConfig" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

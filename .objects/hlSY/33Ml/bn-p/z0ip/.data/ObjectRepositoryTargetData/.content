@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GvaR0feeV02YSEjOq5EFzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dirfo.sharepoint.com" DesignTimeRectangle="2440, 1555, 67, 39" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;ctrl name='Your session has expired.' role='document' /&gt;&lt;ctrl name='Lukk' role='push button' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Your session has expired.' role='document' /&gt;&lt;ctrl name='Lukk' role='push button' /&gt;&lt;ctrl role='grouping' automationid='' check:fulltext='Lukk' /&gt;" Guid="75031bf1-d940-402f-931c-546c24f959a9" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Your session has expired. – [InPrivate] – Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="c4489dd3106565464b00a18483253a2b.png" xmlns="">0JD5S6Kw0JkmeatLgAaKtIw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aNPSZdHIHEm6bMJJSzdj1w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="login.microsoftonline.com/1a91f966-247e-497b-bee6-09072f7ea02a/oauth2/authorize" DesignTimeRectangle="1526, 1213, 783, 82" DesignTimeScaleFactor="2.25" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bannerlogo for organisasjon' role='cell' /&gt;&lt;ctrl name='Angi passordet for sy_rpa_lms@sfso.no' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bannerlogo for organisasjon' role='cell' /&gt;&lt;ctrl name='Angi passordet for sy_rpa_lms@sfso.no' role='editable text' automationid='' /&gt;" Guid="49d31e62-8f14-409e-94f9-c0506f150a9c" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Logg på kontoen din – [InPrivate] – Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1598b02d3b6c06df2d4627f0cb19784b.png" xmlns="">0LbAKKmPpCkuHunXAMPg-yw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

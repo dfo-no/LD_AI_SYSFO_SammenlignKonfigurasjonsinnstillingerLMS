@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="fWrlU6He3E67_bNAZCCFyA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohr1960.lms.hr.cloud.sap/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="13, 497, 320, 33" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon*' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Systemadministrasjon' role='outline item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon*' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Systemadministrasjon' role='outline item' automationid='' check:text='Systemadministrasjon' /&gt;" Guid="17c7afbc-c46c-4ee2-95a0-ac8a3935e41d" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon *' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8769dbfc5ee53f9f983ebabc07863601.png" xmlns="">0U5rIgo2S9E2CWG6jr63Iuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

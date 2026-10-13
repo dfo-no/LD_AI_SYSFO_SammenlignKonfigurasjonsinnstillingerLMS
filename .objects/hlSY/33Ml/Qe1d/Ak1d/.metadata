@@ -1,0 +1,13 @@
+﻿{
+  "Name": "BIZX",
+  "Type": "Element",
+  "Id": "Ak1dWbhy0EiJ3d4s0eQjpg",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/Ak1dWbhy0EiJ3d4s0eQjpg",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/Qe1d2xUSDkm43pxTTFmpow",
+  "Created": "2026-06-30T10:46:43.6911815Z",
+  "Updated": "2026-06-30T10:46:43.6911815Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

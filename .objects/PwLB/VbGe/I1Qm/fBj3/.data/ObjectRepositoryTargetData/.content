@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="sk6OV8EZGU-cS1Vv-8adCg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="44, 517, 272, 16" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Systemadministrasjon' role='outline item' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Systemadministrasjon' role='outline item' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Systemadministrasjon' /&gt;" Guid="ef8a11b9-4e8a-4a0f-ada7-9381d1c2bb9e" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 2 sider til – [InPrivate] – Microsof*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="fc6d4017ebc745b019b171e39c08cbd7.png" xmlns="">0l26qFMVE_UGAVii-rJ7f0A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

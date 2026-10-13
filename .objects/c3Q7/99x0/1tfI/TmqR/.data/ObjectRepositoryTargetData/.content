@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vu0rboWgNEajD86mMSno8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="23, 270, 3823, 2028" DesignTimeScaleFactor="2.25" FullSelectorArgument="&lt;wnd aaname='Opplæringsadministrasjon' cls='Chrome_RenderWidgetHostHWND' title='Chrome Legacy Window' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Opplæringsadministrasjon' cls='Chrome_RenderWidgetHostHWND' title='Chrome Legacy Window' check:text='Chrome Legacy Window' /&gt;" Guid="e2328d6e-9970-4945-b328-4383d0908dd3" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 1 side til – [InPrivate] – Microsoft*' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="28d951bdb4222994dd1014ef149125df.png" xmlns="">0j8KIQdlXdkqB0IHq1FDdGw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Konfigurasjon",
+  "Type": "Element",
+  "Id": "Y7zMaWDeL0mPlzejpwIMDA",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/Y7zMaWDeL0mPlzejpwIMDA",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/I1QmxXWar0WnSEkyn6bPCg",
+  "Created": "2026-07-03T08:20:00.5575079Z",
+  "Updated": "2026-07-03T08:20:00.5575079Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

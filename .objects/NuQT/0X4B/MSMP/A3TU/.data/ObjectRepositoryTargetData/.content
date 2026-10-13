@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a2NJaMPnc0y661Ao3Sjv8g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="hcm-eu20-preview.hr.cloud.sap/sf/home" DesignTimeRectangle="133, 291, 77, 77" DesignTimeScaleFactor="2.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Home - SAP SuccessFactors' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Menu' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Home - SAP SuccessFactors' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Menu' role='push button' automationid='' /&gt;" Guid="da756eb7-0aef-4976-adf9-edc14087bc37" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Home - SAP SuccessFactors og 1 side til – [InPrivate] – Microsof*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="245, 293, 417, 73" ElementType="Icon" FullSelectorArgument="&lt;ctrl name='Home - SAP SuccessFactors' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Logo image. Link to Home.' role='push button' /&gt;&lt;ctrl name='Company Logo' role='graphic' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Home - SAP SuccessFactors' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Logo image. Link to Home.' role='push button' /&gt;&lt;ctrl name='Company Logo' role='graphic' automationid='' /&gt;" Guid="6081191e-0e55-4ebd-9010-aed0fc658d46" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="39cf0b88a43843021c11a5ac039fedca.png" xmlns="">0s0QPVY60bk2pm1_OB2BK0A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

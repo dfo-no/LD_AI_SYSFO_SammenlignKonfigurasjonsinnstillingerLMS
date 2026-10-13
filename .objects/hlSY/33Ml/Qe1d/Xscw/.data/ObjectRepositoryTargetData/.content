@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OFLdcQMbfkORRBsf6VNAdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohrsandbox-stage.lms.hr.cloud.sap/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="145, 1629, 602, 40" DesignTimeScaleFactor="2.5" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='outline item' /&gt;&lt;ctrl role='grouping' /&gt;" Guid="312053c0-3451-4d0c-8f6f-935c06878a9b" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 2 sider til – [InPrivate] – Microsof*' /&gt;" SearchSteps="Selector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a3734110154ea10d4f34f9e0e2c7893a.png" xmlns="">02pkZT_1QTEKgRO7UOJLmag</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

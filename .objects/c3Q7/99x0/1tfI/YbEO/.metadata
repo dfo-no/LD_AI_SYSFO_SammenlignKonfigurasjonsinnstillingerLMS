@@ -1,0 +1,14 @@
+﻿{
+  "Name": "editable text Søk på si…(1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "YbEOD42in06kHTJvLbs4tA",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/YbEOD42in06kHTJvLbs4tA",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/1tfI4sMcDU6L3D-RAv6zOg",
+  "Created": "2026-08-06T10:04:34.0284077Z",
+  "Updated": "2026-08-06T10:04:34.0284077Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "editable text Konfigura…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "m4H5EfKlXUOpC1UqmDMqbg",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/m4H5EfKlXUOpC1UqmDMqbg",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/73tYxzFjDk2N9O505FIjPA",
+  "Created": "2026-09-01T07:41:13.6349835Z",
+  "Updated": "2026-09-01T07:41:13.6349835Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

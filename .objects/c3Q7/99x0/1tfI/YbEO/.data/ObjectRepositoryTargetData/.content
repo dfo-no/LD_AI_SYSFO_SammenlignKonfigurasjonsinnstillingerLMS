@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F3hYp4NQ6UqXyzQo2G7MrQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="20, 8, 169, 32" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Søk på siden for     SuccessFactors: Home – [InPrivate]' role='pane' /&gt;&lt;ctrl name='Søk på siden' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Søk på siden for     SuccessFactors: Home – [InPrivate]' role='pane' /&gt;&lt;ctrl name='Søk på siden' role='editable text' automationid='' /&gt;" Guid="898da17b-fe48-42f7-8a71-23d51bd89ac9" ScopeSelectorArgument="&lt;wnd aaname='Søk på siden for     SuccessFactors: Home – [InPrivate]' app='msedge.exe' cls='Chrome_WidgetWin_1' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="018b3677e888e259d19de42b3208761c.png" xmlns="">05qKO9LDUWkSfaAxcfm6UTw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

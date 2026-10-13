@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="J0uTrd2PKEqsQNW7wYCd3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dirfo.sharepoint.com" DesignTimeRectangle="106, 1305, 680, 41" DesignTimeScaleFactor="2.5" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Systemadministrasjon' role='outline item' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Systemadministrasjon' role='outline item' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Systemadministrasjon' /&gt;" Guid="00d936e7-c5f0-42e1-afcf-5c5a2c2b613e" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 2 sider til – [InPrivate] – Microsof*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="116, 510, 501, 44" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Opplæringsadministrasjon' role='tool bar' /&gt;&lt;ctrl name='Opplæringsadministrasjon' role='grouping' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Opplæringsadministrasjon' role='tool bar' /&gt;&lt;ctrl name='Opplæringsadministrasjon' role='grouping' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Opplæringsadministrasjon' /&gt;" Guid="216b8b65-a2c2-4f60-ab67-cd6ffde44ee2" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="995c74a6574a4a36c3758d3fc4c5ea26.png" xmlns="">0jbhFGTJge0-u8W7VV1Yxww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

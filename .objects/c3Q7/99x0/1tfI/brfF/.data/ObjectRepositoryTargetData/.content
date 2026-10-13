@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2ba7CkF7bUGfGokt2kBMJw" Reference="vwYrCs3bhkG3AVITYF0heQ/brfFh2AEhEuMUihNAMqt9w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="809, 1418, 19, 19" DesignTimeScaleFactor="2.25" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Søk*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  |    | &amp;gt; Systemkonfigurasjon ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='LDAP   ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' /&gt;&lt;ctrl automationid='' role='grouping' check:text='' /&gt;" Guid="a64e3d65-843c-40bf-a68d-b2d3a0529bfe" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 1 side til – [InPrivate] – Microsoft*' /&gt;" SearchSteps="FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="440, 1411, 322, 33" ElementType="Cell" FullSelectorArgument="[string.Format(&quot;&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Søk*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  |    | &amp;gt; Systemkonfigurasjon ' role='cell' /&gt;&lt;ctrl idx='6' role='row' /&gt;&lt;ctrl idx='22' role='row' /&gt;&lt;ctrl name='{0}   ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='{0} ' role='cell' /&gt;&quot;, currentConfig)]" FuzzyMatches="10000" FuzzySelectorArgument="[string.Format(&quot;&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Søk*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  |    | &amp;gt; Systemkonfigurasjon ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='{0}   ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='{0} ' role='cell' automationid='' check:text='{0}' /&gt;&quot;, currentConfig)]" Guid="58b4c7a3-3556-456a-85bc-c2fa900976d6" ImageBase64="" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="18c5db0fe85a8d46ebaa836b72884136.png" xmlns="">0_ZlvCDDBAUmlPb44n_7AqA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="LDAP" Name="currentConfig" />
+    </scg:List>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

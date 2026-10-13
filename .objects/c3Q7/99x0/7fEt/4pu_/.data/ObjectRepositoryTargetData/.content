@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F0VOPDE_mEySBEMoiNWEbg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohr1960.lms.hr.cloud.sap/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="23, 1407, 720, 74" DesignTimeScaleFactor="2.25" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Konfigurasjon' role='outline item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Konfigurasjon' role='outline item' automationid='' check:text='Konfigurasjon' /&gt;" Guid="7e68ec0d-d336-4467-a5ac-3fc595968a64" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 2 sider til – [InPrivate] – Microsof*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="23, 1111, 720, 74" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Treelement . Er aktiv . Systemadministrasjon' role='outline item' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Treelement . Er aktiv . Systemadministrasjon' role='outline item' automationid='' check:text='Treelement . Er aktiv . Systemadministrasjon' /&gt;" Guid="439cd51d-d661-49f1-9e3f-abb48be31f79" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4261cefbd0d7f5a062f6247a27bf4862.png" xmlns="">0POs6Ui9CFkenjkBm_WacKw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

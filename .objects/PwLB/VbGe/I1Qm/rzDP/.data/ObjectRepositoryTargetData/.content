@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="STDOIY0lqE-KkHUNKZsEAA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="performancemanager5.successfactors.eu/sf/home" DesignTimeRectangle="308, 122, 83, 36" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' /&gt;" Guid="0da94001-a255-4cde-9782-0761106f49ae" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='SuccessFactors: Home og 3 sider til – [InPrivate] – Microsoft​ E*' /&gt;" SearchSteps="Selector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="316, 131, 45, 17" ElementType="Text" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' /&gt;&lt;ctrl name='Home' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' /&gt;&lt;ctrl name='Home' role='text' automationid='' check:text='Home' /&gt;" Guid="f9aab2eb-7dab-4e67-b88f-036d6cdbe1aa" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c4f18f933c71b1aeafd3d2354ffd73c1.png" xmlns="">0S6G-DKPlaUi7kje4E5Iswg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

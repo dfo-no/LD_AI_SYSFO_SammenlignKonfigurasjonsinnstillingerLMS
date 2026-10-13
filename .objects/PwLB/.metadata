@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge SuccessFactors Home",
+  "Type": "App",
+  "Id": "PwLBn_rSaU2dnmzV3mosxQ",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/PwLBn_rSaU2dnmzV3mosxQ",
+  "Created": "2026-07-03T08:15:51.9755592Z",
+  "Updated": "2026-07-03T08:15:51.9755592Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

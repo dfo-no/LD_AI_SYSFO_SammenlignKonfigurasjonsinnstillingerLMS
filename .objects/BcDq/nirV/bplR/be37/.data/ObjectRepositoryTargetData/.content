@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="j2qbnuc3uUyYACabfjyENw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="performancemanager5.successfactors.eu/sf/start" DesignTimeRectangle="308, 295, 195, 30" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Startside' role='document' /&gt;&lt;ctrl name='Inneholder elementer som kan velges' role='popup menu' /&gt;&lt;ctrl name='Læringsadministrasjon' role='menu item' /&gt;&lt;ctrl name='Læringsadministrasjon' role='link' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Startside' role='document' /&gt;&lt;ctrl name='Inneholder elementer som kan velges' role='popup menu' /&gt;&lt;ctrl name='Læringsadministrasjon' role='menu item' /&gt;&lt;ctrl name='Læringsadministrasjon' role='link' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Læringsadministrasjon' /&gt;" Guid="b243649f-1f68-4282-b7e6-3f6feef4a405" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='SuccessFactors: *' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4944cb0b792166c611f260ef30a0d8f2.png" xmlns="">0bF0Bnd9TuEKahqvUaZuHCQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

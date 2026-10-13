@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VbAHF4oyDk-G0jkPJ9utiQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="login.microsoftonline.com/1a91f966-247e-497b-bee6-09072f7ea02a/oauth2/authorize" DesignTimeRectangle="1554, 744, 348, 37" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bannerlogo for organisasjon' role='cell' /&gt;&lt;ctrl name='Angi passordet for *' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bannerlogo for organisasjon' role='cell' /&gt;&lt;ctrl name='Angi passordet for *' role='editable text' automationid='' /&gt;" Guid="50a79c53-7648-4e75-b25e-17bbe1a00883" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Logg på *' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="78b80f23cea6a4b3e92c6ecdca315685.png" xmlns="">0ICiybPoXmUO17q8NWdFIbA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Opplæringsadministrasjon og 1 side til – [InPrivate] – Microsoft​ Edge",
+  "Type": "App",
+  "Id": "hlSYmijmLky6ArXicoDoRg",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/hlSYmijmLky6ArXicoDoRg",
+  "Created": "2026-06-30T07:55:20.8613207Z",
+  "Updated": "2026-06-30T07:55:20.8613207Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

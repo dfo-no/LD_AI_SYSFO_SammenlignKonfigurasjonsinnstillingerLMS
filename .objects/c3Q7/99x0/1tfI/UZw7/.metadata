@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Konfigurasjons-ID Beskr…",
+  "Type": "Element",
+  "Id": "UZw7WeZhd0eW4NUdhsFKPg",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/UZw7WeZhd0eW4NUdhsFKPg",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/1tfI4sMcDU6L3D-RAv6zOg",
+  "Created": "2026-07-03T08:45:09.5712147Z",
+  "Updated": "2026-07-03T08:45:09.5712147Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

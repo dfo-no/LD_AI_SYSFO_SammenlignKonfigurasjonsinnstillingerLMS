@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2hF8uF7fjk2tLWRQeapyUA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="performancemanager5.successfactors.eu/sf/home" DesignTimeRectangle="766, 1452, 592, 76" DesignTimeScaleFactor="2.5" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Contains Selectable Items' role='popup menu' /&gt;&lt;ctrl name='Learning Administration' role='menu item' /&gt;&lt;ctrl name='Learning Administration' role='link' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Contains Selectable Items' role='popup menu' /&gt;&lt;ctrl name='Learning Administration' role='menu item' /&gt;&lt;ctrl name='Learning Administration' role='link' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Learning Administration' /&gt;" Guid="cfed8b72-8672-466f-b189-b8585b1bdfad" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='SuccessFactors: Home og 2 sider til – [InPrivate] – Microsoft​ E*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="766, 321, 207, 90" ElementType="Button" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' automationid='' check:fulltext='Home' /&gt;" Guid="c57df182-05bc-489a-9b2f-39a1051b54aa" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="397a629f187e6aad010c165971895412.png" xmlns="">0dcelx2BuyUiKAVKM49HU8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

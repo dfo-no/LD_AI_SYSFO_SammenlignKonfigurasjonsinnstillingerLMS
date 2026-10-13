@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="g5y3z0fvSkO8sb0xIUA4fA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohr1960.lms.hr.cloud.sap/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="1331, 971, 1200, 573" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl idx='22' role='grouping' /&gt;" Guid="298e82f1-3f9a-46c2-88ee-8e5fdafd9cdb" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon – [InPrivate] – Microsoft​ Edge' /&gt;" SearchSteps="Selector" SelectionStrategy="AA" Version="V4">
+      <imageRef attrName="InformativeScreenshot" originalValue="aa3f86b3775865f712aa2b55a54462f3.png" xmlns="">0HdzQl07TaU-1KjGw77Yllw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ClickTrigger</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

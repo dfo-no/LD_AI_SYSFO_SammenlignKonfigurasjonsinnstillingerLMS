@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="FoQosoSh0kaZdCbVAN_0Bg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohrsandbox-stage.lms.hr.cloud.sap/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="912, 390, 2711, 1190" DesignTimeScaleFactor="2.5" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Sam*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  | Hjelp | &amp;gt; Rediger systemkonfigurasjon Kon*' role='cell' /&gt;&lt;ctrl idx='11' role='row' /&gt;&lt;ctrl name='# Learning Integration enabled - set to true to enable integrati*' role='cell' /&gt;&lt;ctrl name='Konfigurasjon' role='editable text' /&gt;" Guid="71c32393-3fef-4f87-a8e5-f14b24a44fb8" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 2 sider til – [InPrivate] – Microsof*' /&gt;" SearchSteps="Selector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="628a1e2b661b1cab2b8811bc38617071.png" xmlns="">0UR4_I78JR0-sNBnbwN9GqA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

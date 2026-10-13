@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Opplæringsadministrasjon",
+  "Type": "Element",
+  "Id": "9Yg1Uf43iUCPmuAZ9s1zuA",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/9Yg1Uf43iUCPmuAZ9s1zuA",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/I1QmxXWar0WnSEkyn6bPCg",
+  "Created": "2026-07-20T13:43:21.4477931Z",
+  "Updated": "2026-07-20T13:43:21.4477931Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

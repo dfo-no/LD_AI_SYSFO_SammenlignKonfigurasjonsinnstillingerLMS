@@ -1,0 +1,13 @@
+﻿{
+  "Name": "VLS-konfigurering",
+  "Type": "Element",
+  "Id": "SPhmqMlKfUywiwg1WE_-Hw",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/SPhmqMlKfUywiwg1WE_-Hw",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/1tfI4sMcDU6L3D-RAv6zOg",
+  "Created": "2026-07-08T07:56:59.7197815Z",
+  "Updated": "2026-07-08T07:56:59.7197815Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

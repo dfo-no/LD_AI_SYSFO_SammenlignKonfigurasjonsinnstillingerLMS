@@ -1,0 +1,14 @@
+﻿{
+  "Name": "# Learning Integration …",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "4XrI4KNR4kOHol4uW5v_XA",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/4XrI4KNR4kOHol4uW5v_XA",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/1tfI4sMcDU6L3D-RAv6zOg",
+  "Created": "2026-07-08T09:58:19.0834831Z",
+  "Updated": "2026-07-08T09:58:19.0834831Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

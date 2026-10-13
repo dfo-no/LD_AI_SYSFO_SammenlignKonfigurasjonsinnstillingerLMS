@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QtciLyYoY0GBkFTcwi6HuA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="performancemanager5.successfactors.eu/sf/home" DesignTimeRectangle="786, 343, 112, 46" DesignTimeScaleFactor="2.5" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Home' /&gt;" Guid="f7fdff7c-f618-4227-9231-7ead0234ea59" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='SuccessFactors: Home og 2 sider til – [InPrivate] – Microsoft​ E*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="176, 318, 525, 96" ElementType="Icon" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Direktoratet for forvaltning og logo image. Link to Home.' role='link' /&gt;&lt;ctrl name='Direktoratet for forvaltning og Logo' role='graphic' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Direktoratet for forvaltning og logo image. Link to Home.' role='link' /&gt;&lt;ctrl name='Direktoratet for forvaltning og Logo' role='graphic' automationid='' /&gt;" Guid="1d79f3a0-80ba-42e1-b1a6-c133eb863e0f" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d02808d5de179a151861adbf594a5943.png" xmlns="">01BU6H3Rh9ECj3F8-zt2fng</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

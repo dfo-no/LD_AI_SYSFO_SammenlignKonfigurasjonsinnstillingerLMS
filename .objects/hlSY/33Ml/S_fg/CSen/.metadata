@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ADMIN QUICK LINKS",
+  "Type": "Element",
+  "Id": "CSenxYpe50urE2QEO3mtqA",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/CSenxYpe50urE2QEO3mtqA",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/S_fgX7a8tkKDmdbsjCWQpA",
+  "Created": "2026-09-16T07:37:31.3439912Z",
+  "Updated": "2026-09-16T07:37:31.3439912Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "editable text brukernav…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "PifzcN5B1kK9CVZZbKOgDw",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/PifzcN5B1kK9CVZZbKOgDw",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/X-lOIkXesEmPj25gKVK0Vw",
+  "Created": "2026-09-28T21:49:08.8016255Z",
+  "Updated": "2026-09-28T21:49:08.8016255Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

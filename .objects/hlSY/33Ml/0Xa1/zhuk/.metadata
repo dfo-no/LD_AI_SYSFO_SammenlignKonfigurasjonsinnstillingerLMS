@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Systemadministrasjon",
+  "Type": "Element",
+  "Id": "zhukDk_NeEm-N8iKlAYoOQ",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/zhukDk_NeEm-N8iKlAYoOQ",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/0Xa1IgA3t0uEo4oP5eWhbw",
+  "Created": "2026-08-26T10:15:22.5026277Z",
+  "Updated": "2026-08-26T10:15:22.5026277Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

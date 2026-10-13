@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Gå til SOURCE URL",
+  "Type": "Screen",
+  "Id": "0Xa1IgA3t0uEo4oP5eWhbw",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/0Xa1IgA3t0uEo4oP5eWhbw",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/33Ml3SkerUKURnk-xeSvQA",
+  "Created": "2026-08-26T10:13:32.91912Z",
+  "Updated": "2026-08-26T10:13:32.91912Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

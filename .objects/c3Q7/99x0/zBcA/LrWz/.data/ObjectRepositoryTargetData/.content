@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EvJjU8WJsECF8pk641z7yw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="809, 1307, 19, 19" DesignTimeScaleFactor="2.25" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Søk*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  |    | &amp;gt; Systemkonfigurasjon ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='ICONTENT   ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' /&gt;&lt;ctrl automationid='' role='grouping' check:text='' /&gt;" Guid="4f531139-d8ed-4e28-9bef-702c1642fe08" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 1 side til – [InPrivate] – Microsoft*' /&gt;" SearchSteps="FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="440, 1300, 322, 33" ElementType="Cell" FullSelectorArgument="[string.Format(&quot;&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Søk*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  |    | &amp;gt; Systemkonfigurasjon ' role='cell' /&gt;&lt;ctrl idx='6' role='row' /&gt;&lt;ctrl idx='19' role='row' /&gt;&lt;ctrl name='{0}   ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='{0} ' role='cell' /&gt;&quot;, currentConfig)]" FuzzySelectorArgument="[string.Format(&quot;&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Søk*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  |    | &amp;gt; Systemkonfigurasjon ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='{0}   ' role='cell' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='{0} ' role='cell' automationid='' check:text='{0}' /&gt;&quot;, currentConfig)]" Guid="6644bea1-9a0a-492c-bbd6-d6ee11816bf9" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8beea6be66b348899ac29c2c8cc77f30.png" xmlns="">0ll3DPErnKkOYSJi8Xr4AWw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="ICONTENT" Name="currentConfig" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

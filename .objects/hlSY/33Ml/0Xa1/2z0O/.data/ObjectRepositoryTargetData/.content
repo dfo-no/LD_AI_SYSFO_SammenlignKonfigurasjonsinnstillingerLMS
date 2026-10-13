@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hvIfySaFW0uprblv755gtQ" Reference="vwYrCs3bhkG3AVITYF0heQ/2z0O99lssk6NwtzcdKWJpw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfo-uipath02.sfso.no/assets" DesignTimeRectangle="689, 289, 186, 81" DesignTimeScaleFactor="2.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' automationid='' check:fulltext='Home' /&gt;" Guid="274b2dbc-08d1-46db-a82b-873ed3cc8da9" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='SuccessFactors:*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="707, 308, 101, 42" ElementType="Text" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' /&gt;&lt;ctrl name='Home' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Shell Bar' role='grouping' /&gt;&lt;ctrl name='Home' role='menu button' /&gt;&lt;ctrl name='Home' role='text' automationid='' check:text='Home' /&gt;" Guid="06cf2788-f8a1-48f4-b76d-f059851d366b" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="92339aa0faedec4a2a18c2b9de581a2b.png" xmlns="">0qhVQR2GhREaxjtKeeCl_og</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

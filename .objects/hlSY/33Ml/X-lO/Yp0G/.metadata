@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Logg på",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "Yp0GF_UvYka_4WWwbHix3Q",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/Yp0GF_UvYka_4WWwbHix3Q",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/X-lOIkXesEmPj25gKVK0Vw",
+  "Created": "2026-09-28T21:52:16.1465575Z",
+  "Updated": "2026-09-28T21:52:16.1465575Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

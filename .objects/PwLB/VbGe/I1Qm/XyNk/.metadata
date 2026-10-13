@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Mouse Scroll",
+  "Type": "Element",
+  "Id": "XyNkpO-G50ewC2u9F2JSzg",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/XyNkpO-G50ewC2u9F2JSzg",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/I1QmxXWar0WnSEkyn6bPCg",
+  "Created": "2026-07-20T13:45:45.0346613Z",
+  "Updated": "2026-07-20T13:45:45.0346613Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7xydT7Xe8ESAfqy5sh2nIA" Reference="vwYrCs3bhkG3AVITYF0heQ/p_SEa_EjREixBOkQEBa0Xg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohrsandbox-stage.lms.hr.cloud.sap/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="367, 507, 2959, 476" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Sam*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  | Hjelp | &amp;gt; Rediger systemkonfigurasjon Kon*' role='cell' /&gt;&lt;ctrl idx='11' role='row' /&gt;&lt;ctrl name='# Java class used to generate temporary passwords, must implemen*' role='cell' /&gt;&lt;ctrl name='Konfigurasjon' role='editable text' /&gt;" Guid="8fbb4c32-249d-4d87-9cc4-4494f1cde08a" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 2 sider til – [InPrivate] – Microsof*' /&gt;" SearchSteps="Selector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d5cefca0a6ab4103afe14b79f061f444.png" xmlns="">0x53nySC9AU6wBSfhi2DEAQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

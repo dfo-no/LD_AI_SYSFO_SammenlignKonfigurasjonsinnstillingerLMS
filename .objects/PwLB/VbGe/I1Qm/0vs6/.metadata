@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Systemkonfigurasjon",
+  "Type": "Element",
+  "Id": "0vs6DmC4jkSWFLPacgoDXQ",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/0vs6DmC4jkSWFLPacgoDXQ",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/I1QmxXWar0WnSEkyn6bPCg",
+  "Created": "2026-07-03T08:20:34.7489739Z",
+  "Updated": "2026-07-03T08:20:34.7489739Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

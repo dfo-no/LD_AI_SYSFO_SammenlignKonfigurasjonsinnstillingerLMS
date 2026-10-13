@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rGndGF3dzU2QDVtiQdgbsA" Reference="vwYrCs3bhkG3AVITYF0heQ/qwv-Gsp-90mD5YnpOxglLQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="performancemanager5.successfactors.eu/sf/home" DesignTimeRectangle="12, 174, 3432, 1220" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl idx='5' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl automationid='' role='grouping' /&gt;" Guid="b981f7cd-f5e4-44a8-8510-3f4d579cb70f" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='SuccessFactors: *' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ef6d22dfd09bb9c8fbfd6649ccdcb0fc.png" xmlns="">04aBDjLqc6ECGyD0Wc1IJbw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

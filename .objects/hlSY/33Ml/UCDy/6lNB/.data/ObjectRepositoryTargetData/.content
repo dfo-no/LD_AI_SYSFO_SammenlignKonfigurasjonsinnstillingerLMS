@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IHyq6DfsQkCSjKcf-M4uBQ" Reference="vwYrCs3bhkG3AVITYF0heQ/6lNBw0Qv0ECRIB_5q0jLbQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="1552, 634, 352, 29" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl name='Logg på' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl name='Logg på' role='grouping' check:text='Logg på' /&gt;" Guid="8546744e-ac4d-48ed-81d6-d3acb99bbb54" ImageBase64="" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Logg på*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1ff5046306acb1badf0526eb56ad87b9.png" xmlns="">0CUnhQ1YJQkyLsSCu5kd0gg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

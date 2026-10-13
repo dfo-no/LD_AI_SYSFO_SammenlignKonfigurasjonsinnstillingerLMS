@@ -1,0 +1,14 @@
+﻿{
+  "Name": "#The link id is a combi…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "jrRa0Iqj_U6CR8BK4C0m2g",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/jrRa0Iqj_U6CR8BK4C0m2g",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/73tYxzFjDk2N9O505FIjPA",
+  "Created": "2026-08-24T18:46:20.7479858Z",
+  "Updated": "2026-08-24T18:46:20.7479858Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

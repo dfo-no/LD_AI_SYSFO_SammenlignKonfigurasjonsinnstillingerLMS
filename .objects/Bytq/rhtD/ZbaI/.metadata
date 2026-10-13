@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome RPA-løsning for konfigurasjon",
+  "Type": "Screen",
+  "Id": "ZbaIQqT6akOn3g83acVUMg",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/ZbaIQqT6akOn3g83acVUMg",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/rhtDE5MlJ0KmGOYpnjTctg",
+  "Created": "2026-08-24T18:36:07.984476Z",
+  "Updated": "2026-08-24T18:36:07.984476Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

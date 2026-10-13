@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="z-bZo_YxvUW3iRso_TfHaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="hcm-eu20.hr.cloud.sap/sf/start" DesignTimeRectangle="12, 122, 3432, 1274" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;wnd aaname='SuccessFactors: Home' cls='Chrome_RenderWidgetHostHWND' title='Chrome*' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='SuccessFactors: Home' cls='Chrome_RenderWidgetHostHWND' title='Chrome*' /&gt;" Guid="f6184911-b22f-4d2f-8736-dfda984684dc" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='SuccessFactors:*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="UIA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="57acad765599112b04ab5a60b843e327.png" xmlns="">0clp-k3XGjUm5f7YHn-MhNQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

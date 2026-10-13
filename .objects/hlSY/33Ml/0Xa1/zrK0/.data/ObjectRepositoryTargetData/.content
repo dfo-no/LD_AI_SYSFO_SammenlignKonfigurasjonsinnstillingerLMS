@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-WwThYz-pE-KFsue72K3GQ" Reference="vwYrCs3bhkG3AVITYF0heQ/zrK0N4q5I0ayghfCq1Sc7w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfo-uipath02.sfso.no/assets" DesignTimeRectangle="308, 582, 237, 31" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Contains Selectable Items' role='popup menu' /&gt;&lt;ctrl name='Learning Administration' role='menu item' /&gt;&lt;ctrl name='Learning Administration' role='link' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Contains Selectable Items' role='popup menu' /&gt;&lt;ctrl name='Learning Administration' role='menu item' /&gt;&lt;ctrl name='Learning Administration' role='link' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Learning Administration' /&gt;" Guid="1cef3d97-5d95-4cda-9112-424670c4e674" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='SuccessFactors:*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="308, 166, 237, 31" FullSelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Contains Selectable Items' role='popup menu' /&gt;&lt;ctrl name='Home' role='menu item' /&gt;&lt;ctrl name='Home' role='link' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='SuccessFactors: Home' role='document' /&gt;&lt;ctrl name='Contains Selectable Items' role='popup menu' /&gt;&lt;ctrl name='Home' role='menu item' /&gt;&lt;ctrl name='Home' role='link' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Home' /&gt;" Guid="20417824-6857-41d2-a3a7-40aa50baaa5a" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b238936c26d23c8cb1cd322e72b81e1c.png" xmlns="">0EtySszlB_Uyi3youO7icnQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

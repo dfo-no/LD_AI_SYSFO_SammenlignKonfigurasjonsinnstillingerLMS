@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cDzXYOzkKEO59Psi9fuoXw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohr1960.lms.hr.cloud.sap/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="1331, 917, 1200, 48" DesignTimeScaleFactor="1.5" FullSelectorArgument="&lt;ctrl name='Your session has expired.' role='document' /&gt;&lt;ctrl idx='40' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Your session has expired.' role='document' /&gt;&lt;ctrl automationid='' role='grouping' check:fulltext='Viktige meldinger som krever din oppmerksomhet' /&gt;" Guid="932d1c11-4ecc-4c06-9f26-180fa8cad09a" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Your session has expired. – [InPrivate] – Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6262a1ddd2b108571dee9636d961160c.png" xmlns="">0QfxIwDBqFEG1Sb5g8Qs87g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

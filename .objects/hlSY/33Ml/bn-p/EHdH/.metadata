@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Utfasing av lokal pålog…",
+  "Type": "Element",
+  "Id": "EHdHjsBwo02gRbieqXLOKQ",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/EHdHjsBwo02gRbieqXLOKQ",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/bn-pK-F0vUGhM1NRX622Ww",
+  "Created": "2026-09-11T16:27:23.712009Z",
+  "Updated": "2026-09-11T16:27:23.712009Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

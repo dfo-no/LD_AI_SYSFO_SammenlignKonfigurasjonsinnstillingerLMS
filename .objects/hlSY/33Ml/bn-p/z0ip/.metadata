@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Lukk",
+  "Type": "Element",
+  "Id": "z0ipQgOy6k6UxVRdZCtFaA",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/z0ipQgOy6k6UxVRdZCtFaA",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/bn-pK-F0vUGhM1NRX622Ww",
+  "Created": "2026-09-11T17:12:15.914495Z",
+  "Updated": "2026-09-11T17:12:15.914495Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

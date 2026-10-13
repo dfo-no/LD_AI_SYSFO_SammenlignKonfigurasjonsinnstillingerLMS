@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3IZAJJy3w0SzBwQCLt9CoA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="login.microsoftonline.com/1a91f966-247e-497b-bee6-09072f7ea02a/oauth2/v2.0/authorize" DesignTimeRectangle="1554, 744, 348, 37" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bannerlogo for organisasjon' role='cell' /&gt;&lt;ctrl name='Angi passordet for sy_rpa_lms@sfso.no' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bannerlogo for organisasjon' role='cell' /&gt;&lt;ctrl name='Angi passordet for sy_rpa_lms@sfso.no' role='editable text' automationid='' /&gt;" Guid="b90dff09-0d5a-4c8e-8c1d-2f4594111900" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Logg på *' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1552, 704, 352, 29" FullSelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bannerlogo for organisasjon' role='cell' /&gt;&lt;ctrl name='Skriv inn passord' role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bannerlogo for organisasjon' role='cell' /&gt;&lt;ctrl name='Skriv inn passord' role='grouping' check:text='Skriv inn passord' /&gt;" Guid="6d07e467-dc4f-4226-a4e0-c7f7f2c8f757" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="02019f514b888624350c969dcd8bf574.png" xmlns="">00FZFvXAEaE-v-CngOPjcJg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

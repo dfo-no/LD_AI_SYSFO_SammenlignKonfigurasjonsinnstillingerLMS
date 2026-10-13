@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="eg1ojO3YgUSYalvuz9kewA" Reference="vwYrCs3bhkG3AVITYF0heQ/zFf6FFLW10GN_SiWAO_M9Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="45, 18, 381, 72" DesignTimeScaleFactor="2.25" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='Søk på siden for     Opplæringsadministrasjon – [InPrivate]' role='pane' /&gt;&lt;ctrl name='Søk på siden' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Søk på siden for     Opplæringsadministrasjon – [InPrivate]' role='pane' /&gt;&lt;ctrl name='Søk på siden' role='editable text' automationid='' /&gt;" Guid="30fcc7a0-3709-418e-a3d7-43d4b7aab4de" ScopeSelectorArgument="&lt;wnd aaname='Søk på siden for     Opplæringsadministrasjon – [InPrivate]' app='msedge.exe' cls='Chrome_WidgetWin_1' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="727, 18, 72, 72" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Søk på siden for     SuccessFactors: Home – [InPrivate]' role='pane' /&gt;&lt;ctrl name='Lukk' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Søk på siden for     SuccessFactors: Home – [InPrivate]' role='pane' /&gt;&lt;ctrl name='Lukk' role='push button' automationid='' check:text='Lukk' /&gt;" Guid="b1a91d75-25a5-400d-bd4f-d4f203c0ffec" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ccaf4eb5e16050e8f23def7a4f9e19af.png" xmlns="">0PxuICQbxQkONRBjFmLmxFQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

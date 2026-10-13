@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Neste",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "fkS73WWikUuU-Jc4hleMcA",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/fkS73WWikUuU-Jc4hleMcA",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/X-lOIkXesEmPj25gKVK0Vw",
+  "Created": "2026-09-28T21:49:42.7078008Z",
+  "Updated": "2026-09-28T21:49:42.7078008Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

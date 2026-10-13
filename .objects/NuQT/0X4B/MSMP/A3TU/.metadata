@@ -1,0 +1,14 @@
+﻿{
+  "Name": "push button Menu",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "A3TUYcbSaUWdbVAU18N18w",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/A3TUYcbSaUWdbVAU18N18w",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/MSMP1x1Rpk-Ss0twWAAo6Q",
+  "Created": "2026-09-11T09:29:37.9913562Z",
+  "Updated": "2026-09-11T09:29:37.9913562Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

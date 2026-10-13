@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="zrUIuC_pZ0m71GCgVYU_KQ" Reference="vwYrCs3bhkG3AVITYF0heQ/Yp0GF_UvYka_4WWwbHix3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="login.microsoftonline.com/1a91f966-247e-497b-bee6-09072f7ea02a/oauth2/authorize" DesignTimeRectangle="2070, 1510, 244, 73" DesignTimeScaleFactor="2.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bannerlogo for organisasjon' role='cell' /&gt;&lt;ctrl name='Logg på' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Logg på kontoen din' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Bannerlogo for organisasjon' role='cell' /&gt;&lt;ctrl name='Logg på' role='push button' automationid='' check:text='Logg på' /&gt;" Guid="cc5389f6-7bb0-441e-a64d-174ba257a1df" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Logg på *' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="53c3dda1b6397510c3da4a2fafdf8b12.png" xmlns="">06W-9UQL2iUuehrf4wxPjtw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

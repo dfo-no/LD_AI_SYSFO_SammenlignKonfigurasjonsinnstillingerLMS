@@ -1,0 +1,13 @@
+﻿{
+  "Name": "AICC",
+  "Type": "Element",
+  "Id": "WF_ZtWvi_UaKOFDw86yy9A",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/WF_ZtWvi_UaKOFDw86yy9A",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/kEiHOU9ezkGhRmPYVEPNJg",
+  "Created": "2026-07-31T15:11:12.9958879Z",
+  "Updated": "2026-07-31T15:11:12.9958879Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

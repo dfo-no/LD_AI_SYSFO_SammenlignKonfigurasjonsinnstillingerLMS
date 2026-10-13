@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Learning Administration",
+  "Type": "Element",
+  "Id": "wpBeT9RvD0Wqt1nrQmKYUw",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/wpBeT9RvD0Wqt1nrQmKYUw",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/zQGsXX9Na0GsRgAFt5xNgA",
+  "Created": "2026-10-09T09:23:20.9898252Z",
+  "Updated": "2026-10-09T09:23:20.9898252Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

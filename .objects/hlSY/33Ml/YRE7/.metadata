@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Logg på kontoen din(1)",
+  "Type": "Screen",
+  "Id": "YRE7MRHtkUeAgf-zwM6G0A",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/YRE7MRHtkUeAgf-zwM6G0A",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/33Ml3SkerUKURnk-xeSvQA",
+  "Created": "2026-09-30T10:53:20.3432685Z",
+  "Updated": "2026-09-30T10:53:20.3432685Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

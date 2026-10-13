@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Opplæringsadministrasjon(6)",
+  "Type": "App",
+  "Id": "BcDqVzhIOEiOQAYHS_jdNQ",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/BcDqVzhIOEiOQAYHS_jdNQ",
+  "Created": "2026-09-16T09:45:45.4329964Z",
+  "Updated": "2026-09-16T09:45:45.4329964Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

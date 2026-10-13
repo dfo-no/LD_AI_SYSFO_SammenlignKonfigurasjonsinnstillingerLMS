@@ -1,0 +1,14 @@
+﻿{
+  "Name": "editable text Angi pass…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "mMBtAoVhT0-43I2xDuAE6w",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/mMBtAoVhT0-43I2xDuAE6w",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/X-lOIkXesEmPj25gKVK0Vw",
+  "Created": "2026-09-28T21:51:35.6201282Z",
+  "Updated": "2026-09-28T21:51:35.6201282Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

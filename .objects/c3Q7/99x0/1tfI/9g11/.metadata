@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Beskrivelse",
+  "Type": "Element",
+  "Id": "9g11bvkuXkyFK3fcA8syrg",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/9g11bvkuXkyFK3fcA8syrg",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/1tfI4sMcDU6L3D-RAv6zOg",
+  "Created": "2026-07-16T09:49:06.43399Z",
+  "Updated": "2026-07-16T09:49:06.43399Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge SuccessFactors Home",
+  "Type": "Screen",
+  "Id": "I1QmxXWar0WnSEkyn6bPCg",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/I1QmxXWar0WnSEkyn6bPCg",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/VbGeoYG_rkyrpVfgxU4Bqg",
+  "Created": "2026-07-03T08:15:52.0749762Z",
+  "Updated": "2026-07-03T08:15:52.0749762Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

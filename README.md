@@ -1,2 +1,0 @@
-# LD_AI_SYSFO_SammenlignKonfigurasjonsinnstillingerLMS
-LDSU-18499  Sammenligne konfigurasjoner i LMS

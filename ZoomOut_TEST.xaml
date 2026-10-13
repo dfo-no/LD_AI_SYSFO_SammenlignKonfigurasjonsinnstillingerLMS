@@ -1,0 +1,419 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="ZoomOut_TEST" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="ZoomOut_TEST_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:sd="clr-namespace:System.Data;assembly=System.Data.Common" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Services.RuntimeAnalyze</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>System.Xml.Serialization</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+      <x:String>UiPath.UIAutomationNext.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Models.CV</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Testing.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Mail.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>System.Private.Xml</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Memory.Data</AssemblyReference>
+      <AssemblyReference>UiPath.Excel.Activities.Design</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Linq.Async</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="ZoomOut_TEST" sap:VirtualizedContainerService.HintSize="1622.2222222222222,1421.7777777777778" sap2010:WorkflowViewState.IdRef="Sequence_1">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="519.1111111111111,275.55555555555554" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+      <ui:CommentOut.Body>
+        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="483.55555555555554,164.88888888888889" sap2010:WorkflowViewState.IdRef="Sequence_10">
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+          <Sequence DisplayName="1. INIT" sap:VirtualizedContainerService.HintSize="449.77777777777777,56.888888888888886" sap2010:WorkflowViewState.IdRef="Sequence_3">
+            <Sequence.Variables>
+              <Variable x:TypeArguments="sd:DataTable" Name="resultTable" />
+              <Variable x:TypeArguments="x:String" Name="reportPath" />
+              <Variable x:TypeArguments="x:String" Name="sourceConfigs" />
+              <Variable x:TypeArguments="x:String" Name="targetConfigs" />
+              <Variable x:TypeArguments="x:String" Name="currentConfig" />
+              <Variable x:TypeArguments="x:String" Name="configText" />
+              <Variable x:TypeArguments="x:String" Name="configList" />
+              <Variable x:TypeArguments="x:String" Name="sourceInstance" />
+              <Variable x:TypeArguments="x:String" Name="targetInstance" />
+              <Variable x:TypeArguments="x:String" Name="sourceURL" />
+              <Variable x:TypeArguments="x:String" Name="targetURL" />
+            </Sequence.Variables>
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                <x:Boolean x:Key="IsPinned">False</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <ui:MultipleAssign DisplayName="Multiple Assign - Source and target" sap:VirtualizedContainerService.HintSize="479.1111111111111,180.44444444444446" sap2010:WorkflowViewState.IdRef="MultipleAssign_1">
+              <ui:MultipleAssign.AssignOperations>
+                <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
+                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_1">
+                    <ui:AssignOperation.To>
+                      <OutArgument x:TypeArguments="x:String">[sourceInstance]</OutArgument>
+                    </ui:AssignOperation.To>
+                    <ui:AssignOperation.Value>
+                      <InArgument x:TypeArguments="x:String">Golden</InArgument>
+                    </ui:AssignOperation.Value>
+                  </ui:AssignOperation>
+                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_2">
+                    <ui:AssignOperation.To>
+                      <OutArgument x:TypeArguments="x:String">[targetInstance]</OutArgument>
+                    </ui:AssignOperation.To>
+                    <ui:AssignOperation.Value>
+                      <InArgument x:TypeArguments="x:String">Sandbox</InArgument>
+                    </ui:AssignOperation.Value>
+                  </ui:AssignOperation>
+                </scg:List>
+              </ui:MultipleAssign.AssignOperations>
+            </ui:MultipleAssign>
+            <ui:MultipleAssign DisplayName="Multiple Assign - Source and target URL" sap:VirtualizedContainerService.HintSize="479.1111111111111,180.44444444444446" sap2010:WorkflowViewState.IdRef="MultipleAssign_2">
+              <ui:MultipleAssign.AssignOperations>
+                <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
+                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_3">
+                    <ui:AssignOperation.To>
+                      <OutArgument x:TypeArguments="x:String">[sourceURL]</OutArgument>
+                    </ui:AssignOperation.To>
+                    <ui:AssignOperation.Value>
+                      <InArgument x:TypeArguments="x:String">
+                        <Literal x:TypeArguments="x:String" Value="" />
+                      </InArgument>
+                    </ui:AssignOperation.Value>
+                  </ui:AssignOperation>
+                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_4">
+                    <ui:AssignOperation.To>
+                      <OutArgument x:TypeArguments="x:String">[targetURL]</OutArgument>
+                    </ui:AssignOperation.To>
+                    <ui:AssignOperation.Value>
+                      <InArgument x:TypeArguments="x:String">
+                        <Literal x:TypeArguments="x:String" Value="" />
+                      </InArgument>
+                    </ui:AssignOperation.Value>
+                  </ui:AssignOperation>
+                </scg:List>
+              </ui:MultipleAssign.AssignOperations>
+            </ui:MultipleAssign>
+            <Assign sap:VirtualizedContainerService.HintSize="479.1111111111111,116" sap2010:WorkflowViewState.IdRef="Assign_1">
+              <Assign.To>
+                <OutArgument x:TypeArguments="x:String">[configList]</OutArgument>
+              </Assign.To>
+              <Assign.Value>
+                <InArgument x:TypeArguments="x:String" xml:space="preserve">[New List(Of String) From {
+    "BIZX",
+    "AUTHENTICATION",
+    "LMS_ADMIN",
+    "PASSWORD_POLICY"
+}]</InArgument>
+              </Assign.Value>
+            </Assign>
+            <ui:MultipleAssign DisplayName="Multiple Assign - Source and target Config" sap:VirtualizedContainerService.HintSize="479.1111111111111,242.66666666666666" sap2010:WorkflowViewState.IdRef="MultipleAssign_3">
+              <ui:MultipleAssign.AssignOperations>
+                <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
+                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_5">
+                    <ui:AssignOperation.To>
+                      <OutArgument x:TypeArguments="x:String">[sourceConfigs]</OutArgument>
+                    </ui:AssignOperation.To>
+                    <ui:AssignOperation.Value>
+                      <InArgument x:TypeArguments="scg:Dictionary(x:String, x:String)">[New Dictionary(Of String, String)]</InArgument>
+                    </ui:AssignOperation.Value>
+                  </ui:AssignOperation>
+                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_6">
+                    <ui:AssignOperation.To>
+                      <OutArgument x:TypeArguments="x:String">[targetConfigs]</OutArgument>
+                    </ui:AssignOperation.To>
+                    <ui:AssignOperation.Value>
+                      <InArgument x:TypeArguments="scg:Dictionary(x:String, x:String)">[New Dictionary(Of String, String)]</InArgument>
+                    </ui:AssignOperation.Value>
+                  </ui:AssignOperation>
+                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_7">
+                    <ui:AssignOperation.To>
+                      <OutArgument x:TypeArguments="x:String">[currentConfig]</OutArgument>
+                    </ui:AssignOperation.To>
+                    <ui:AssignOperation.Value>
+                      <InArgument x:TypeArguments="x:String">
+                        <Literal x:TypeArguments="x:String" Value="" />
+                      </InArgument>
+                    </ui:AssignOperation.Value>
+                  </ui:AssignOperation>
+                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_8">
+                    <ui:AssignOperation.To>
+                      <OutArgument x:TypeArguments="x:String">[configText]</OutArgument>
+                    </ui:AssignOperation.To>
+                    <ui:AssignOperation.Value>
+                      <InArgument x:TypeArguments="x:String">
+                        <Literal x:TypeArguments="x:String" Value="" />
+                      </InArgument>
+                    </ui:AssignOperation.Value>
+                  </ui:AssignOperation>
+                </scg:List>
+              </ui:MultipleAssign.AssignOperations>
+            </ui:MultipleAssign>
+            <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="479.1111111111111,175.55555555555554" sap2010:WorkflowViewState.IdRef="LogMessage_1" Message="[&quot;After INIT: targetConfigs Is Nothing = &quot; &amp; (targetConfigs Is Nothing).ToString]" />
+            <ui:MultipleAssign DisplayName="Multiple Assign - Source and target URL" sap:VirtualizedContainerService.HintSize="479.1111111111111,180.44444444444446" sap2010:WorkflowViewState.IdRef="MultipleAssign_4">
+              <ui:MultipleAssign.AssignOperations>
+                <scg:List x:TypeArguments="ui:AssignOperation" Capacity="4">
+                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_9">
+                    <ui:AssignOperation.To>
+                      <OutArgument x:TypeArguments="sd:DataTable">[resultTable]</OutArgument>
+                    </ui:AssignOperation.To>
+                    <ui:AssignOperation.Value>
+                      <InArgument x:TypeArguments="sd:DataTable">[new DataTable]</InArgument>
+                    </ui:AssignOperation.Value>
+                  </ui:AssignOperation>
+                  <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_10">
+                    <ui:AssignOperation.To>
+                      <OutArgument x:TypeArguments="x:String">[reportPath]</OutArgument>
+                    </ui:AssignOperation.To>
+                    <ui:AssignOperation.Value>
+                      <InArgument x:TypeArguments="x:String">C:\Temp\ConfigCompareReport.xlsx</InArgument>
+                    </ui:AssignOperation.Value>
+                  </ui:AssignOperation>
+                </scg:List>
+              </ui:MultipleAssign.AssignOperations>
+            </ui:MultipleAssign>
+            <ui:BuildDataTable DataTable="[resultTable]" DisplayName="Build Data Table" sap:VirtualizedContainerService.HintSize="479.1111111111111,83.11111111111111" sap2010:WorkflowViewState.IdRef="BuildDataTable_1" TableInfo="&lt;NewDataSet&gt;&#xA;  &lt;xs:schema id=&quot;NewDataSet&quot; xmlns=&quot;&quot; xmlns:xs=&quot;http://www.w3.org/2001/XMLSchema&quot; xmlns:msdata=&quot;urn:schemas-microsoft-com:xml-msdata&quot;&gt;&#xA;    &lt;xs:element name=&quot;NewDataSet&quot; msdata:IsDataSet=&quot;true&quot; msdata:MainDataTable=&quot;TableName&quot; msdata:UseCurrentLocale=&quot;true&quot;&gt;&#xA;      &lt;xs:complexType&gt;&#xA;        &lt;xs:choice minOccurs=&quot;0&quot; maxOccurs=&quot;unbounded&quot;&gt;&#xA;          &lt;xs:element name=&quot;TableName&quot;&gt;&#xA;            &lt;xs:complexType&gt;&#xA;              &lt;xs:sequence&gt;&#xA;                &lt;xs:element name=&quot;ConfigName&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;SourceLength&quot; msdata:Caption=&quot;&quot; type=&quot;xs:int&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;TargetLength&quot; msdata:Caption=&quot;&quot; type=&quot;xs:int&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;IsEqual&quot; msdata:Caption=&quot;&quot; type=&quot;xs:boolean&quot; minOccurs=&quot;0&quot; /&gt;&#xA;                &lt;xs:element name=&quot;Comment&quot; msdata:Caption=&quot;&quot; type=&quot;xs:string&quot; minOccurs=&quot;0&quot; /&gt;&#xA;              &lt;/xs:sequence&gt;&#xA;            &lt;/xs:complexType&gt;&#xA;          &lt;/xs:element&gt;&#xA;        &lt;/xs:choice&gt;&#xA;      &lt;/xs:complexType&gt;&#xA;    &lt;/xs:element&gt;&#xA;  &lt;/xs:schema&gt;&#xA;&lt;/NewDataSet&gt;" />
+          </Sequence>
+          <Sequence DisplayName="2. Get SOURCE configs" sap:VirtualizedContainerService.HintSize="449.77777777777777,48" sap2010:WorkflowViewState.IdRef="Sequence_4">
+            <sap:WorkflowViewStateService.ViewState>
+              <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                <x:Boolean x:Key="IsPinned">False</x:Boolean>
+              </scg:Dictionary>
+            </sap:WorkflowViewStateService.ViewState>
+            <Sequence DisplayName="2.1 Gå til Systemkonfigurasjoner" sap:VirtualizedContainerService.HintSize="483.55555555555554,122.22222222222223" sap2010:WorkflowViewState.IdRef="Sequence_5">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </Sequence>
+            <Sequence DisplayName="2.2 Hent liste med konfigurasjonsnavn" sap:VirtualizedContainerService.HintSize="483.55555555555554,693.3333333333334" sap2010:WorkflowViewState.IdRef="Sequence_6">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Opplæringsadministrasjon(3)" sap:VirtualizedContainerService.HintSize="449.77777777777777,601.3333333333334" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" ScopeGuid="13dd9201-1208-494f-a4c9-93a00149680f" Version="V2">
+                <uix:NApplicationCard.Body>
+                  <ActivityAction x:TypeArguments="x:Object">
+                    <ActivityAction.Argument>
+                      <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+                    </ActivityAction.Argument>
+                    <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="416,320.44444444444446" sap2010:WorkflowViewState.IdRef="Sequence_2">
+                      <sap:WorkflowViewStateService.ViewState>
+                        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                        </scg:Dictionary>
+                      </sap:WorkflowViewStateService.ViewState>
+                      <uix:NKeyboardShortcuts ActivateBefore="True" ClickBeforeMode="None" DisplayName="Keyboard Shortcuts" sap:VirtualizedContainerService.HintSize="382.22222222222223,258.6666666666667" sap2010:WorkflowViewState.IdRef="NKeyboardShortcuts_1" ScopeIdentifier="13dd9201-1208-494f-a4c9-93a00149680f" Shortcuts="[d(hk)][d(ctrl)]-[u(ctrl)][u(hk)][d(hk)][d(ctrl)]-[u(ctrl)][u(hk)][d(hk)][d(ctrl)]-[u(ctrl)][u(hk)][d(hk)][d(ctrl)]-[u(ctrl)][u(hk)]" Version="V4">
+                        <uix:NKeyboardShortcuts.VerifyOptions>
+                          <uix:VerifyExecutionOptions DisplayName="{x:Null}" Mode="Appears">
+                            <uix:VerifyExecutionOptions.Retry>
+                              <InArgument x:TypeArguments="x:Boolean" />
+                            </uix:VerifyExecutionOptions.Retry>
+                            <uix:VerifyExecutionOptions.Timeout>
+                              <InArgument x:TypeArguments="x:Double" />
+                            </uix:VerifyExecutionOptions.Timeout>
+                          </uix:VerifyExecutionOptions>
+                        </uix:NKeyboardShortcuts.VerifyOptions>
+                      </uix:NKeyboardShortcuts>
+                    </Sequence>
+                  </ActivityAction>
+                </uix:NApplicationCard.Body>
+                <uix:NApplicationCard.TargetApp>
+                  <uix:TargetApp Area="-8, -8, 3456, 1408" BrowserType="Edge" ContentHash="2lExYyPo30eO4q-HQ39dkg" IconBase64="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" InformativeScreenshot="cd4551d168ec83ec5023bfb16663becb.jpg" Reference="vwYrCs3bhkG3AVITYF0heQ/QHrhrCmH_UKu2VH4hkrF-A" Selector="&lt;html app='msedge.exe' title='Opplæringsadministrasjon' /&gt;" Title="Opplæringsadministrasjon" Url="https://dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do?4102444799=0#/learning/iframeApp@/loadPageInIframe//%252Flearning%252Fadmin%252Fsysadmin%252FviewSystemConfigurationList.do%253FadminShellMenuId%253DsystemConfiguration%2526adminShellMenuId%253DsystemConfiguration%2526adminShellMenuId%253DsystemConfiguration%2526adminShellMenuId%253DsystemConfiguration%2526adminShellMenuId%253DsystemConfiguration%2526adminShellMenuId%253DsystemConfiguration" Version="V1" />
+                </uix:NApplicationCard.TargetApp>
+                <sap:WorkflowViewStateService.ViewState>
+                  <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                    <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                    <x:Boolean x:Key="IsPinned">False</x:Boolean>
+                  </scg:Dictionary>
+                </sap:WorkflowViewStateService.ViewState>
+              </uix:NApplicationCard>
+            </Sequence>
+            <Sequence DisplayName="2.3 Hent konfigurasjoner fra hvert konfigurasjonsnavn" sap:VirtualizedContainerService.HintSize="483.55555555555554,113.33333333333333" sap2010:WorkflowViewState.IdRef="Sequence_7">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+            </Sequence>
+          </Sequence>
+        </Sequence>
+      </ui:CommentOut.Body>
+    </ui:CommentOut>
+    <Sequence sap:VirtualizedContainerService.HintSize="519.1111111111111,1123.111111111111" sap2010:WorkflowViewState.IdRef="Sequence_8">
+      <Sequence.Variables>
+        <Variable x:TypeArguments="x:String" Name="currentConfig">
+          <Variable.Default>
+            <Literal x:TypeArguments="x:String">ICONTENT</Literal>
+          </Variable.Default>
+        </Variable>
+      </Sequence.Variables>
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <Assign sap:VirtualizedContainerService.HintSize="449.77777777777777,114.66666666666667" sap2010:WorkflowViewState.IdRef="Assign_2">
+        <Assign.To>
+          <OutArgument x:TypeArguments="x:String">[currentConfig]</OutArgument>
+        </Assign.To>
+        <Assign.Value>
+          <InArgument x:TypeArguments="x:String" xml:space="preserve">GAMIFICATION </InArgument>
+        </Assign.Value>
+      </Assign>
+      <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="449.77777777777777,175.55555555555554" sap2010:WorkflowViewState.IdRef="LogMessage_2" Message="[currentConfig]" />
+      <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Opplæringsadministrasjon(5)" sap:VirtualizedContainerService.HintSize="449.77777777777777,749.7777777777778" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="8621cf68-35c7-4973-9253-a61c589f49b5" Version="V2">
+        <uix:NApplicationCard.Body>
+          <ActivityAction x:TypeArguments="x:Object">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="416,508.8888888888889" sap2010:WorkflowViewState.IdRef="Sequence_9">
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <uix:NClick ActivateBefore="True" AlterIfDisabled="True" ClickType="Single" DelayBefore="10" DisplayName="Click ''" sap:VirtualizedContainerService.HintSize="382.22222222222223,227.11111111111111" sap2010:WorkflowViewState.IdRef="NClick_2" InteractionMode="HardwareEvents" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="8621cf68-35c7-4973-9253-a61c589f49b5" Version="V4">
+                <uix:NClick.Target>
+                  <uix:TargetAnchorable BrowserURL="dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="809, 1307, 19, 19" DesignTimeScaleFactor="2.25" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Søk*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  |    | &amp;gt; Systemkonfigurasjon ' role='cell' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' /&gt;&lt;ctrl role='grouping' check:text='' /&gt;" Guid="1bae477c-255b-496e-95f5-5ee2b8d89ee4" ImageBase64="" InformativeScreenshot="a3ba74661a708e5191bcf955ce573a93.png" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 1 side til – [InPrivate] – Microsoft*' /&gt;" SearchSteps="FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+                    <uix:TargetAnchorable.Anchors>
+                      <scg:List x:TypeArguments="uix:ITarget" Capacity="1">
+                        <uix:Target DesignTimeRectangle="440, 1300, 322, 33" ElementType="Cell" FuzzySelectorArgument="[string.Format(&quot;&lt;ctrl name='{0}' role='cell' /&gt;&quot;, currentConfig)]" Guid="0c967d7c-a670-496e-8f74-163aa1ce5db0" ImageBase64="" SearchSteps="FuzzySelector" />
+                      </scg:List>
+                    </uix:TargetAnchorable.Anchors>
+                  </uix:TargetAnchorable>
+                </uix:NClick.Target>
+                <uix:NClick.VerifyOptions>
+                  <uix:VerifyExecutionOptions DisplayName="{x:Null}" Mode="Appears">
+                    <uix:VerifyExecutionOptions.Retry>
+                      <InArgument x:TypeArguments="x:Boolean" />
+                    </uix:VerifyExecutionOptions.Retry>
+                    <uix:VerifyExecutionOptions.Timeout>
+                      <InArgument x:TypeArguments="x:Double" />
+                    </uix:VerifyExecutionOptions.Timeout>
+                  </uix:VerifyExecutionOptions>
+                </uix:NClick.VerifyOptions>
+              </uix:NClick>
+              <uix:NClick ActivateBefore="True" AlterIfDisabled="True" ClickType="Single" DelayBefore="10" DisplayName="Click ''" sap:VirtualizedContainerService.HintSize="382.22222222222223,220" sap2010:WorkflowViewState.IdRef="NClick_1" InteractionMode="HardwareEvents" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="8621cf68-35c7-4973-9253-a61c589f49b5" Version="V4">
+                <uix:NClick.Target>
+                  <uix:TargetAnchorable BrowserURL="dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="809, 1307, 19, 19" DesignTimeScaleFactor="2.25" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='document' /&gt;&lt;ctrl name='Systemadministrasjon &amp;gt; Konfigurasjon &amp;gt; Systemkonfigurasjon &amp;gt; Søk*' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Systemkonfigurasjon  |    | &amp;gt; Systemkonfigurasjon ' role='cell' /&gt;&lt;ctrl name='' role='cell' /&gt;&lt;ctrl name='' role='link' /&gt;&lt;ctrl role='grouping' check:text='' /&gt;" Guid="1bae477c-255b-496e-95f5-5ee2b8d89ee4" ImageBase64="" InformativeScreenshot="a3ba74661a708e5191bcf955ce573a93.png" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Opplæringsadministrasjon og 1 side til – [InPrivate] – Microsoft*' /&gt;" SearchSteps="FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+                    <uix:TargetAnchorable.Anchors>
+                      <scg:List x:TypeArguments="uix:ITarget" Capacity="4">
+                        <uix:Target DesignTimeRectangle="440, 1300, 322, 33" ElementType="Cell" FuzzySelectorArgument="[string.Format(&quot;&lt;ctrl name='{0}' role='cell' /&gt;&quot;, currentConfig)]" Guid="0c967d7c-a670-496e-8f74-163aa1ce5db0" ImageBase64="" SearchSteps="FuzzySelector" />
+                      </scg:List>
+                    </uix:TargetAnchorable.Anchors>
+                  </uix:TargetAnchorable>
+                </uix:NClick.Target>
+                <uix:NClick.VerifyOptions>
+                  <uix:VerifyExecutionOptions DisplayName="{x:Null}" Mode="Appears">
+                    <uix:VerifyExecutionOptions.Retry>
+                      <InArgument x:TypeArguments="x:Boolean" />
+                    </uix:VerifyExecutionOptions.Retry>
+                    <uix:VerifyExecutionOptions.Timeout>
+                      <InArgument x:TypeArguments="x:Double" />
+                    </uix:VerifyExecutionOptions.Timeout>
+                  </uix:VerifyExecutionOptions>
+                </uix:NClick.VerifyOptions>
+              </uix:NClick>
+            </Sequence>
+          </ActivityAction>
+        </uix:NApplicationCard.Body>
+        <uix:NApplicationCard.TargetApp>
+          <uix:TargetApp Area="-14, -14, 3868, 2320" BrowserType="Edge" ContentHash="j5EJv--wL06z725OASE0tA" IconBase64="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" InformativeScreenshot="df3af9663bf2efba1a93565df032e018.jpg" Reference="vwYrCs3bhkG3AVITYF0heQ/zBcAx6eDS0W8CHpEckFIXg" Selector="&lt;html app='msedge.exe' title='Opplæringsadministrasjon' /&gt;" Title="Opplæringsadministrasjon" Url="https://dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do?4102444799=0#/learning/iframeApp@/loadPageInIframe//%252Flearning%252Fadmin%252Fsysadmin%252FviewSystemConfigurationList.do%253FadminShellMenuId%253DsystemConfiguration" Version="V1" />
+        </uix:NApplicationCard.TargetApp>
+      </uix:NApplicationCard>
+    </Sequence>
+  </Sequence>
+</Activity>

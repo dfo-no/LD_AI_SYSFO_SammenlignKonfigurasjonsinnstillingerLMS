@@ -182,7 +182,7 @@
       <AssemblyReference>UiPath.Mail.Activities.Design</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1811.5555555555557,24269.777777777777" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="1811.5555555555557,21660" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="LMS_Username" />
       <Variable x:TypeArguments="ss:SecureString" Name="LMS_Password" />
@@ -604,7 +604,7 @@
         </sap:WorkflowViewStateService.ViewState>
       </ui:BuildDataTable>
     </Sequence>
-    <Sequence sap2010:Annotation.AnnotationText="Hent alle konfigurasjoner og konfigurasjonsinnstillinger fra Source instans" DisplayName="2.  Read SOURCE" sap:VirtualizedContainerService.HintSize="1811.5555555555557,11621.333333333334" sap2010:WorkflowViewState.IdRef="Sequence_303">
+    <Sequence sap2010:Annotation.AnnotationText="Hent alle konfigurasjoner og konfigurasjonsinnstillinger fra Source instans" DisplayName="2.  Read SOURCE" sap:VirtualizedContainerService.HintSize="1811.5555555555557,9016.888888888889" sap2010:WorkflowViewState.IdRef="Sequence_303">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -649,7 +649,7 @@
           </Sequence>
         </If.Else>
       </If>
-      <If sap2010:Annotation.AnnotationText="Henter verdi fra asset&#xA;&#xA;Hvis PROD- Bruk PROD navigering&#xA;Hvis PREPROD- Bruk PREPROD navigering&#xA;Hvis DEVELOPMENT - Bruk DEVELOPMENT navigering&#xA;Hvis PREVIEW - Bruk PREVIEW navigering" Condition="[sourceEnvironment = &quot;PROD&quot; or sourceEnvironment = &quot;PREPROD&quot;]" DisplayName="If - Miljø er PROD" sap:VirtualizedContainerService.HintSize="1258.6666666666667,10328.444444444445" sap2010:WorkflowViewState.IdRef="If_28">
+      <If sap2010:Annotation.AnnotationText="Henter verdi fra asset&#xA;&#xA;Hvis PROD- Bruk PROD navigering&#xA;Hvis PREPROD- Bruk PREPROD navigering&#xA;Hvis DEVELOPMENT - Bruk DEVELOPMENT navigering&#xA;Hvis PREVIEW - Bruk PREVIEW navigering" Condition="[sourceEnvironment = &quot;PROD&quot; or sourceEnvironment = &quot;PREPROD&quot;]" DisplayName="If - Miljø er PROD" sap:VirtualizedContainerService.HintSize="1258.6666666666667,7725.333333333333" sap2010:WorkflowViewState.IdRef="If_28">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
@@ -1317,14 +1317,14 @@
           </Sequence>
         </If.Then>
         <If.Else>
-          <Sequence DisplayName="Else - Development eller preview" sap:VirtualizedContainerService.HintSize="1224.888888888889,6204.444444444444" sap2010:WorkflowViewState.IdRef="Sequence_351">
+          <Sequence DisplayName="Else - Development eller preview" sap:VirtualizedContainerService.HintSize="1224.888888888889,3601.3333333333335" sap2010:WorkflowViewState.IdRef="Sequence_351">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <If Condition="[sourceEnvironment =&quot;DEVELOPMENT&quot;]" DisplayName="If - Miljø er DEVELOPMENT" sap:VirtualizedContainerService.HintSize="1191.111111111111,6144.444444444444" sap2010:WorkflowViewState.IdRef="If_29">
+            <If Condition="[sourceEnvironment =&quot;DEVELOPMENT&quot;]" DisplayName="If - Miljø er DEVELOPMENT" sap:VirtualizedContainerService.HintSize="1191.111111111111,3541.3333333333335" sap2010:WorkflowViewState.IdRef="If_29">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -1332,26 +1332,26 @@
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
               <If.Then>
-                <Sequence DisplayName="Then - Naviger til DEVELOPMENT" sap:VirtualizedContainerService.HintSize="1157.3333333333333,3355.5555555555557" sap2010:WorkflowViewState.IdRef="Sequence_330">
+                <Sequence DisplayName="Then - Naviger til DEVELOPMENT" sap:VirtualizedContainerService.HintSize="1157.3333333333333,3354.6666666666665" sap2010:WorkflowViewState.IdRef="Sequence_330">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
                       <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="DEVELOPMENT" sap:VirtualizedContainerService.HintSize="1123.5555555555557,3295.5555555555557" sap2010:WorkflowViewState.IdRef="NApplicationCard_48" InteractionMode="DebuggerApi" IsIncognito="True" OpenMode="IfNotOpen" ScopeGuid="ce731514-a714-47e1-8634-cdd39df4eddc" Version="V2" WindowResize="Maximize">
+                  <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="DEVELOPMENT" sap:VirtualizedContainerService.HintSize="1123.5555555555557,3294.6666666666665" sap2010:WorkflowViewState.IdRef="NApplicationCard_48" InteractionMode="DebuggerApi" IsIncognito="True" OpenMode="IfNotOpen" ScopeGuid="ce731514-a714-47e1-8634-cdd39df4eddc" Version="V2" WindowResize="Maximize">
                     <uix:NApplicationCard.Body>
                       <ActivityAction x:TypeArguments="x:Object">
                         <ActivityAction.Argument>
                           <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
                         </ActivityAction.Argument>
-                        <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1089.7777777777778,3055.1111111111113" sap2010:WorkflowViewState.IdRef="Sequence_329">
+                        <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="1089.7777777777778,3054.222222222222" sap2010:WorkflowViewState.IdRef="Sequence_329">
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                               <x:Boolean x:Key="IsPinned">False</x:Boolean>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
-                          <uix:NCheckState DisplayName="Check App State 'Logg på'" sap:VirtualizedContainerService.HintSize="1056,1811.5555555555557" sap2010:WorkflowViewState.IdRef="NCheckState_55" ScopeIdentifier="ce731514-a714-47e1-8634-cdd39df4eddc" Timeout="10" Version="V4">
+                          <uix:NCheckState DisplayName="Check App State 'Logg på'" sap:VirtualizedContainerService.HintSize="1056,1811.5555555555557" sap2010:WorkflowViewState.IdRef="NCheckState_55" ScopeIdentifier="ce731514-a714-47e1-8634-cdd39df4eddc" Timeout="15" Version="V4">
                             <uix:NCheckState.IfExists>
                               <Sequence DisplayName="Target appears" sap:VirtualizedContainerService.HintSize="552.8888888888889,1560.888888888889" sap2010:WorkflowViewState.IdRef="Sequence_375">
                                 <sap:WorkflowViewStateService.ViewState>
@@ -1617,7 +1617,7 @@
                               </uix:VerifyExecutionOptions>
                             </uix:NClick.VerifyOptions>
                           </uix:NClick>
-                          <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Konfigurasjon'" sap:VirtualizedContainerService.HintSize="493.3333333333333,220" sap2010:WorkflowViewState.IdRef="NClick_184" InteractionMode="HardwareEvents" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="ce731514-a714-47e1-8634-cdd39df4eddc" Version="V4">
+                          <uix:NClick ActivateBefore="True" ClickType="Single" DisplayName="Click 'Konfigurasjon'" sap:VirtualizedContainerService.HintSize="1056,219.11111111111111" sap2010:WorkflowViewState.IdRef="NClick_184" InteractionMode="HardwareEvents" KeyModifiers="None" MouseButton="Left" ScopeIdentifier="ce731514-a714-47e1-8634-cdd39df4eddc" Version="V4">
                             <uix:NClick.Target>
                               <uix:TargetAnchorable BrowserURL="dfohrgolden.plateau.com/learning/admin/theming/updateThemingInfo.do" DesignTimeRectangle="76, 1032, 240, 16" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='outline item' /&gt;&lt;ctrl role='grouping' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Opplæringsadministrasjon' role='document' /&gt;&lt;ctrl name='Meny' role='property page' /&gt;&lt;ctrl name='Systemkonfigurasjon' role='outline item' /&gt;&lt;ctrl role='grouping' automationid='' check:text='Systemkonfigurasjon' /&gt;" Guid="ac3b8268-8be4-40cb-b0e3-7a87000abe82" InformativeScreenshot="c501b045ae278adb5259ce2e29ef9ca4.png" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Home -*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive" />
                             </uix:NClick.Target>
@@ -1648,22 +1648,23 @@
                 </Sequence>
               </If.Then>
               <If.Else>
-                <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="1121.7777777777778,2627.1111111111113" sap2010:WorkflowViewState.IdRef="Sequence_350">
+                <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="416,24.88888888888889" sap2010:WorkflowViewState.IdRef="Sequence_350">
                   <sap:WorkflowViewStateService.ViewState>
                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                      <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                      <x:Boolean x:Key="IsExpanded">False</x:Boolean>
+                      <x:Boolean x:Key="IsPinned">False</x:Boolean>
                     </scg:Dictionary>
                   </sap:WorkflowViewStateService.ViewState>
-                  <If Condition="[sourceEnvironment = &quot;PREVIEW&quot;]" DisplayName="If- Miljø er PREVIEW" sap:VirtualizedContainerService.HintSize="1088,2567.1111111111113" sap2010:WorkflowViewState.IdRef="If_34">
+                  <If Condition="[sourceEnvironment = &quot;PREVIEW&quot;]" DisplayName="If- Miljø er PREVIEW" sap:VirtualizedContainerService.HintSize="1088,2566.222222222222" sap2010:WorkflowViewState.IdRef="If_34">
                     <If.Then>
-                      <Sequence DisplayName="Then - Naviger til PREVIEW" sap:VirtualizedContainerService.HintSize="1054.2222222222222,2380" sap2010:WorkflowViewState.IdRef="Sequence_348">
+                      <Sequence DisplayName="Then - Naviger til PREVIEW" sap:VirtualizedContainerService.HintSize="1054.2222222222222,2379.5555555555557" sap2010:WorkflowViewState.IdRef="Sequence_348">
                         <sap:WorkflowViewStateService.ViewState>
                           <scg:Dictionary x:TypeArguments="x:String, x:Object">
                             <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                             <x:Boolean x:Key="IsPinned">False</x:Boolean>
                           </scg:Dictionary>
                         </sap:WorkflowViewStateService.ViewState>
-                        <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Edge Opplæringsadministrasjon(6)" sap:VirtualizedContainerService.HintSize="1020.4444444444445,2320" sap2010:WorkflowViewState.IdRef="NApplicationCard_52" InteractionMode="DebuggerApi" IsIncognito="True" OpenMode="IfNotOpen" ScopeGuid="ce731514-a714-47e1-8634-cdd39df4eddc" Version="V2" WindowResize="Maximize">
+                        <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Edge Opplæringsadministrasjon(6)" sap:VirtualizedContainerService.HintSize="1020.4444444444445,2319.5555555555557" sap2010:WorkflowViewState.IdRef="NApplicationCard_52" InteractionMode="DebuggerApi" IsIncognito="True" OpenMode="IfNotOpen" ScopeGuid="ce731514-a714-47e1-8634-cdd39df4eddc" Version="V2" WindowResize="Maximize">
                           <uix:NApplicationCard.Body>
                             <ActivityAction x:TypeArguments="x:Object">
                               <ActivityAction.Argument>
@@ -2312,7 +2313,7 @@
           </Sequence>
         </If.Else>
       </If>
-      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1223.111111111111,218.66666666666666" sap2010:WorkflowViewState.IdRef="CommentOut_91">
+      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1258.6666666666667,218.66666666666666" sap2010:WorkflowViewState.IdRef="CommentOut_91">
         <ui:CommentOut.Body>
           <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="416,108" sap2010:WorkflowViewState.IdRef="Sequence_368">
             <sap:WorkflowViewStateService.ViewState>
@@ -2769,7 +2770,7 @@
           </Sequence>
         </ui:CommentOut.Body>
       </ui:CommentOut>
-      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1223.111111111111,56.888888888888886" sap2010:WorkflowViewState.IdRef="CommentOut_82">
+      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1258.6666666666667,56.888888888888886" sap2010:WorkflowViewState.IdRef="CommentOut_82">
         <ui:CommentOut.Body>
           <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="416,108" sap2010:WorkflowViewState.IdRef="Sequence_367">
             <sap:WorkflowViewStateService.ViewState>
@@ -3058,7 +3059,7 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </ui:CommentOut>
-      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1223.111111111111,56.888888888888886" sap2010:WorkflowViewState.IdRef="CommentOut_37">
+      <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="1258.6666666666667,56.888888888888886" sap2010:WorkflowViewState.IdRef="CommentOut_37">
         <ui:CommentOut.Body>
           <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="467.55555555555554,165.77777777777777" sap2010:WorkflowViewState.IdRef="Sequence_151">
             <sap:WorkflowViewStateService.ViewState>
@@ -3083,7 +3084,7 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </ui:CommentOut>
-      <Assign DisplayName="Assign - Initialiser 'sourceConfigs' som string Dictionary" sap:VirtualizedContainerService.HintSize="1223.111111111111,56.888888888888886" sap2010:WorkflowViewState.IdRef="Assign_56">
+      <Assign DisplayName="Assign - Initialiser 'sourceConfigs' som string Dictionary" sap:VirtualizedContainerService.HintSize="1258.6666666666667,56.888888888888886" sap2010:WorkflowViewState.IdRef="Assign_56">
         <Assign.To>
           <OutArgument x:TypeArguments="scg:Dictionary(x:String, x:String)">[sourceConfigs]</OutArgument>
         </Assign.To>
@@ -3097,7 +3098,7 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </Assign>
-      <ui:LogMessage DisplayName="Log m - Start read source" sap:VirtualizedContainerService.HintSize="1223.111111111111,56.888888888888886" sap2010:WorkflowViewState.IdRef="LogMessage_36" Message="[&quot;Start Read Source: sourceConfigs Is Nothing = &quot; &amp; (sourceConfigs Is Nothing).ToString]">
+      <ui:LogMessage DisplayName="Log m - Start read source" sap:VirtualizedContainerService.HintSize="1258.6666666666667,56.888888888888886" sap2010:WorkflowViewState.IdRef="LogMessage_36" Message="[&quot;Start Read Source: sourceConfigs Is Nothing = &quot; &amp; (sourceConfigs Is Nothing).ToString]">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsExpanded">False</x:Boolean>
@@ -3105,7 +3106,7 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </ui:LogMessage>
-      <uix:NCheckState sap2010:Annotation.AnnotationText="Sjekke om man er på riktig side ved å se etter underoverskriften 'Beskrivelse'" DelayBefore="5" DisplayName="Source: Check App State 'Systemkonfigurasjon'" sap:VirtualizedContainerService.HintSize="1223.111111111111,118.22222222222223" sap2010:WorkflowViewState.IdRef="NCheckState_14" Timeout="10" Version="V4">
+      <uix:NCheckState sap2010:Annotation.AnnotationText="Sjekke om man er på riktig side ved å se etter underoverskriften 'Beskrivelse'" DelayBefore="5" DisplayName="Source: Check App State 'Systemkonfigurasjon'" sap:VirtualizedContainerService.HintSize="1258.6666666666667,116.88888888888889" sap2010:WorkflowViewState.IdRef="NCheckState_14" Timeout="10" Version="V4">
         <uix:NCheckState.IfExists>
           <Sequence DisplayName="Target appears- Fortsett" sap:VirtualizedContainerService.HintSize="1726.2222222222222,5900.888888888889" sap2010:WorkflowViewState.IdRef="Sequence_142">
             <sap:WorkflowViewStateService.ViewState>
@@ -3606,9 +3607,9 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </uix:NCheckState>
-      <ui:CloseWindow TimeoutMS="{x:Null}" UseWindow="{x:Null}" DisplayName="Close Window 'msedge.exe Opplæringsad...'" sap:VirtualizedContainerService.HintSize="1223.111111111111,130.22222222222223" sap2010:WorkflowViewState.IdRef="CloseWindow_2" InformativeScreenshot="5b40a511e8eb1820f324def63b921714" Selector="&lt;html app='msedge.exe' title='Opplæringsadministrasjon' /&gt;" WaitForReady="INTERACTIVE" />
+      <ui:CloseWindow TimeoutMS="{x:Null}" UseWindow="{x:Null}" DisplayName="Close Window 'msedge.exe Opplæringsad...'" sap:VirtualizedContainerService.HintSize="1258.6666666666667,130.22222222222223" sap2010:WorkflowViewState.IdRef="CloseWindow_2" InformativeScreenshot="5b40a511e8eb1820f324def63b921714" Selector="&lt;html app='msedge.exe' title='Opplæringsadministrasjon' /&gt;" WaitForReady="INTERACTIVE" />
     </Sequence>
-    <Sequence sap2010:Annotation.AnnotationText="Hent alle konfigurasjoner og konfigurasjonsinnstillinger fra Target instans" DisplayName="3.  Read TARGET" sap:VirtualizedContainerService.HintSize="1811.5555555555557,10161.777777777777" sap2010:WorkflowViewState.IdRef="Sequence_145">
+    <Sequence sap2010:Annotation.AnnotationText="Hent alle konfigurasjoner og konfigurasjonsinnstillinger fra Target instans" DisplayName="3.  Read TARGET" sap:VirtualizedContainerService.HintSize="1811.5555555555557,10156.444444444445" sap2010:WorkflowViewState.IdRef="Sequence_145">
       <sap:WorkflowViewStateService.ViewState>
         <scg:Dictionary x:TypeArguments="x:String, x:Object">
           <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -3616,7 +3617,7 @@
           <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
-      <Assign sap:VirtualizedContainerService.HintSize="1777.7777777777778,114.66666666666667" sap2010:WorkflowViewState.IdRef="Assign_43">
+      <Assign sap:VirtualizedContainerService.HintSize="1777.7777777777778,114.22222222222223" sap2010:WorkflowViewState.IdRef="Assign_43">
         <Assign.To>
           <OutArgument x:TypeArguments="scg:Dictionary(x:String, x:String)">[targetConfigs]</OutArgument>
         </Assign.To>
@@ -3657,15 +3658,15 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </ui:LogMessage>
-      <If Condition="[targetInstance = &quot;dfohr9960t&quot;]" sap:VirtualizedContainerService.HintSize="1777.7777777777778,427.1111111111111" sap2010:WorkflowViewState.IdRef="If_36">
+      <If Condition="[targetInstance = &quot;dfohr9960t&quot;]" sap:VirtualizedContainerService.HintSize="1777.7777777777778,426.22222222222223" sap2010:WorkflowViewState.IdRef="If_36">
         <If.Then>
-          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="467.55555555555554,165.77777777777777" sap2010:WorkflowViewState.IdRef="Sequence_371">
+          <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="467.55555555555554,165.33333333333334" sap2010:WorkflowViewState.IdRef="Sequence_371">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <Assign sap:VirtualizedContainerService.HintSize="433.77777777777777,105.77777777777777" sap2010:WorkflowViewState.IdRef="Assign_102">
+            <Assign sap:VirtualizedContainerService.HintSize="433.77777777777777,105.33333333333333" sap2010:WorkflowViewState.IdRef="Assign_102">
               <Assign.To>
                 <OutArgument x:TypeArguments="x:String">[sourceEnvironment]</OutArgument>
               </Assign.To>
@@ -3685,7 +3686,7 @@
           </Sequence>
         </If.Else>
       </If>
-      <If sap2010:Annotation.AnnotationText="Henter verdi fra asset&#xA;&#xA;Hvis PROD- Bruk PROD navigering&#xA;Hvis PREPROD- Bruk PREPROD navigering&#xA;Hvis DEVELOPMENT - Bruk DEVELOPMENT navigering&#xA;Hvis PREVIEW - Bruk PREVIEW navigering" Condition="[targetEnvironment = &quot;PROD&quot; or targetEnvironment = &quot;PREPROD&quot;]" DisplayName="If - Miljø er PROD" sap:VirtualizedContainerService.HintSize="1777.7777777777778,3356" sap2010:WorkflowViewState.IdRef="If_22">
+      <If sap2010:Annotation.AnnotationText="Henter verdi fra asset&#xA;&#xA;Hvis PROD- Bruk PROD navigering&#xA;Hvis PREPROD- Bruk PREPROD navigering&#xA;Hvis DEVELOPMENT - Bruk DEVELOPMENT navigering&#xA;Hvis PREVIEW - Bruk PREVIEW navigering" Condition="[targetEnvironment = &quot;PROD&quot; or targetEnvironment = &quot;PREPROD&quot;]" DisplayName="If - Miljø er PROD" sap:VirtualizedContainerService.HintSize="1777.7777777777778,3352" sap2010:WorkflowViewState.IdRef="If_22">
         <sap:WorkflowViewStateService.ViewState>
           <scg:Dictionary x:TypeArguments="x:String, x:Object">
             <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
@@ -3694,14 +3695,14 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
         <If.Then>
-          <Sequence DisplayName="Then Naviger til PROD" sap:VirtualizedContainerService.HintSize="1054.2222222222222,2966.222222222222" sap2010:WorkflowViewState.IdRef="Sequence_218">
+          <Sequence DisplayName="Then Naviger til PROD" sap:VirtualizedContainerService.HintSize="1054.2222222222222,2965.777777777778" sap2010:WorkflowViewState.IdRef="Sequence_218">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                 <x:Boolean x:Key="IsPinned">False</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Edge Opplæringsadministrasjon(6)" sap:VirtualizedContainerService.HintSize="1020.4444444444445,2906.222222222222" sap2010:WorkflowViewState.IdRef="NApplicationCard_27" InteractionMode="DebuggerApi" IsIncognito="True" OpenMode="IfNotOpen" ScopeGuid="ce731514-a714-47e1-8634-cdd39df4eddc" Version="V2" WindowResize="Maximize">
+            <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Edge Opplæringsadministrasjon(6)" sap:VirtualizedContainerService.HintSize="1020.4444444444445,2905.777777777778" sap2010:WorkflowViewState.IdRef="NApplicationCard_27" InteractionMode="DebuggerApi" IsIncognito="True" OpenMode="IfNotOpen" ScopeGuid="ce731514-a714-47e1-8634-cdd39df4eddc" Version="V2" WindowResize="Maximize">
               <uix:NApplicationCard.Body>
                 <ActivityAction x:TypeArguments="x:Object">
                   <ActivityAction.Argument>

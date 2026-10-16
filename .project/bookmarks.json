@@ -6,7 +6,7 @@
         "Annotation": null,
         "Id": "c96e694d-c9dc-431a-b472-2daae037427b",
         "ActivityIdRef": "Assign_69",
-        "ActivityId": "1.10158",
+        "ActivityId": "1.9958",
         "ActivityName": "Assign TARGET URL fra liste i Orchestrator",
         "IsTransient": false
       },
@@ -15,7 +15,7 @@
         "Annotation": null,
         "Id": "83ca20a3-394b-446b-8689-d1c6766af233",
         "ActivityIdRef": "NClick_50",
-        "ActivityId": "1.7074",
+        "ActivityId": "1.6876",
         "ActivityName": "Click 'konfigurasjon fra variabel",
         "IsTransient": false
       },
@@ -24,7 +24,7 @@
         "Annotation": null,
         "Id": "e504719b-8a0c-4a8c-9d64-8d0f38f3174e",
         "ActivityIdRef": "NApplicationCard_38",
-        "ActivityId": "1.5165",
+        "ActivityId": "1.5003",
         "ActivityName": "Edge Opplæringsadministrasjon(6)",
         "IsTransient": false
       },
@@ -33,35 +33,17 @@
         "Annotation": null,
         "Id": "5ce5bcc1-03be-4215-95b5-941a63bd5fa5",
         "ActivityIdRef": "NCheckState_3",
-        "ActivityId": "1.3201",
+        "ActivityId": "1.3039",
         "ActivityName": "Check App State - Er man på konfigurasjonssiden? ",
         "IsTransient": false
       },
       {
         "IsEnabled": true,
-        "Annotation": null,
-        "Id": "cf8c1737-4ad3-40ac-b7c2-d3a8ebbfab23",
-        "ActivityIdRef": "CloseApplication_1",
-        "ActivityId": null,
-        "ActivityName": "Close Application 'document Pålogging'",
-        "IsTransient": false
-      },
-      {
-        "IsEnabled": true,
-        "Annotation": null,
-        "Id": "c89efd13-1e8e-4382-91b4-abce876a94e9",
-        "ActivityIdRef": "NTypeInto_7",
-        "ActivityId": null,
-        "ActivityName": "Type Into 'editable text Angi pass…'",
-        "IsTransient": false
-      },
-      {
-        "IsEnabled": true,
-        "Annotation": null,
-        "Id": "44bcd6b7-9fca-49da-b99f-c97e0f100b5a",
-        "ActivityIdRef": "NClick_90",
-        "ActivityId": null,
-        "ActivityName": "Click 'Good afternoon! Quick A…'",
+        "Annotation": "Legg til nav",
+        "Id": "6cf9b3fc-066d-4f1a-9348-ac3544ea47d3",
+        "ActivityIdRef": "Sequence_275",
+        "ActivityId": "1.1784",
+        "ActivityName": "Then - Naviger til PREVIEW",
         "IsTransient": false
       }
     ]

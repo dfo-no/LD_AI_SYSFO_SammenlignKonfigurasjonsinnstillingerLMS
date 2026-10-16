@@ -6,8 +6,20 @@
   "OriginalIconFileName": null,
   "Arguments": [
     {
-      "Name": "TriggerEventArgs",
-      "DisplayName": "TriggerEventArgs",
+      "Name": "sourceURL",
+      "DisplayName": "sourceURL",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "targetURL",
+      "DisplayName": "targetURL",
       "Category": null,
       "Tooltip": null,
       "Placeholder": null,

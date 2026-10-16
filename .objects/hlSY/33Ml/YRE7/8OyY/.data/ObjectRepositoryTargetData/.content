@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="KRXM2ktQ-0uniOhPUm2E-A" Reference="vwYrCs3bhkG3AVITYF0heQ/8OyYRPtrnU6mlLYRZmfmDw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="login.microsoftonline.com/1a91f966-247e-497b-bee6-09072f7ea02a/oauth2/authorize" ContentHash="aHBsp5u-eU2BYMsFv6cN4A" DesignTimeRectangle="1796, 808, 108, 33" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Sign in to your account' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Banner logo for organization Sign-in options' role='cell' /&gt;&lt;ctrl name='In this' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Sign in to your account' role='document' /&gt;&lt;ctrl role='row' /&gt;&lt;ctrl name='Banner logo for organization Sign-in options' role='cell' /&gt;&lt;ctrl name='In this' role='push button' automationid='' check:text='' /&gt;" Guid="ebfc8b21-3959-43f6-9516-fbc2cf4b508d" ImageBase64="" Reference="vwYrCs3bhkG3AVITYF0heQ/8OyYRPtrnU6mlLYRZmfmDw" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Sign in to your account*' /&gt;" SearchSteps="Selector, FuzzySelector" SelectionStrategy="AA" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="39b0f73d787536b96e127114b7c99220.png" xmlns="">0lVUhphuoGUm-TM56wqX6Gg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

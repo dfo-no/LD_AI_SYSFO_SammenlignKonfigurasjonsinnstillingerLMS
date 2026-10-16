@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Opplæringsadministrasjon(6)",
+  "Type": "Screen",
+  "Id": "qtBT0b3rF0K93Bbp-ojDLw",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/qtBT0b3rF0K93Bbp-ojDLw",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/33Ml3SkerUKURnk-xeSvQA",
+  "Created": "2026-10-14T12:32:49.9803412Z",
+  "Updated": "2026-10-14T12:32:49.9803412Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

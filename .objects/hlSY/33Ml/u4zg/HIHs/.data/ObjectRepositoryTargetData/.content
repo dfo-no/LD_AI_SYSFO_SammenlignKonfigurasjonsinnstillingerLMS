@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WwasYVOwsEKBciAGq7n7bQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="12, 122, 3432, 1274" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;wnd aaname='Sign in to your account' cls='Chrome_RenderWidgetHostHWND' title='Chrome Legacy Window' /&gt;" FuzzySelectorArgument="&lt;wnd aaname='Sign in to your account' cls='Chrome_RenderWidgetHostHWND' title='Chrome Legacy Window' check:text='Chrome Legacy Window' /&gt;" Guid="32e74826-d8dc-4cf4-9eee-99043850a26c" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='Sign in to your account – [InPrivate] – Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1272bb8064bae60d93346f059b7c781c.png" xmlns="">022BC75oQJUibfy3wE7aJuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

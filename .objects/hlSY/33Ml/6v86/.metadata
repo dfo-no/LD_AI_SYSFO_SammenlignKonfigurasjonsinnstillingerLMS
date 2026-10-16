@@ -1,0 +1,13 @@
+﻿{
+  "Name": "DEVELOPMENT",
+  "Type": "Screen",
+  "Id": "6v86qhLFzUeEdkZPjbfAKA",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/6v86qhLFzUeEdkZPjbfAKA",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/33Ml3SkerUKURnk-xeSvQA",
+  "Created": "2026-10-15T20:31:53.6082743Z",
+  "Updated": "2026-10-15T20:31:53.6082743Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

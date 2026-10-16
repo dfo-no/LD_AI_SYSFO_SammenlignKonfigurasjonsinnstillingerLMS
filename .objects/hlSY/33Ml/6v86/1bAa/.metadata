@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Logg på",
+  "Type": "Element",
+  "Id": "1bAax-TPBkSbQLJ-74w70g",
+  "Reference": "vwYrCs3bhkG3AVITYF0heQ/1bAax-TPBkSbQLJ-74w70g",
+  "ParentRef": "vwYrCs3bhkG3AVITYF0heQ/6v86qhLFzUeEdkZPjbfAKA",
+  "Created": "2026-10-15T20:31:54.6891011Z",
+  "Updated": "2026-10-15T20:31:54.6891011Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
